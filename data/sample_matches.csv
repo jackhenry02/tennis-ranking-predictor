@@ -1,6 +1,7 @@
-tourney_date,player_id,opponent_id,surface,round,result,player_sets_won,opponent_sets_won
-2023-10-10,102999,104567,Hard,QF,L,0,2
-2023-11-15,103819,102999,Indoor,SF,W,2,1
-2023-12-20,104567,103819,Clay,F,W,3,1
-2024-01-12,102999,103819,Hard,R16,W,3,2
-2024-02-05,103819,104567,Hard,QF,L,1,2
+tourney_id,tourney_name,surface,draw_size,tourney_level,tourney_date,match_num,winner_id,winner_seed,winner_entry,winner_name,winner_hand,winner_ht,winner_ioc,winner_age,loser_id,loser_seed,loser_entry,loser_name,loser_hand,loser_ht,loser_ioc,loser_age,score,best_of,round,minutes,w_ace,w_df,w_svpt,w_1stIn,w_1stWon,w_2ndWon,w_SvGms,w_bpSaved,w_bpFaced,l_ace,l_df,l_svpt,l_1stIn,l_1stWon,l_2ndWon,l_SvGms,l_bpSaved,l_bpFaced,winner_rank,winner_rank_points,loser_rank,loser_rank_points
+2022-3001,Doha,Hard,32,ATP250,2022-02-14,1,104567,1,,Novak Djokovic,R,188,SRB,34,102999,2,,Rafael Nadal,L,185,ESP,35,6-4 6-4,3,QF,95,8,2,65,40,32,15,12,3,5,4,1,70,38,28,12,3,6,2,4,3,1,8000,7,6100
+2022-3010,Paris,Indoor,64,ATP1000,2022-11-01,2,103819,4,,Roger Federer,R,185,SUI,40,104567,1,,Novak Djokovic,R,188,SRB,35,7-6 6-7 6-4,3,SF,155,12,3,105,65,48,30,18,5,6,10,5,102,60,40,12,4,5,3,5,4,5,4600,2,7800
+2022-4002,Barcelona,Clay,48,ATP500,2022-04-18,3,102999,3,,Rafael Nadal,L,185,ESP,35,103819,5,,Roger Federer,R,185,SUI,40,6-2 6-3,3,SF,88,6,1,70,45,33,20,11,4,5,3,1,68,36,22,10,2,4,2,3,3,10,5400,9,4500
+2023-2001,Melbourne,Hard,128,G,2023-01-16,4,104567,1,,Novak Djokovic,R,188,SRB,35,103819,6,,Roger Federer,R,185,SUI,41,6-3 6-4 6-3,5,R16,130,15,4,110,70,55,32,18,6,7,6,2,98,60,38,14,3,6,4,5,4,1,9000,6,5000
+2023-2002,Indian Wells,Hard,96,ATP1000,2023-03-08,5,103819,5,,Roger Federer,R,185,SUI,41,102999,8,,Rafael Nadal,L,185,ESP,36,3-6 6-3 6-4,3,QF,140,9,3,95,58,45,22,16,4,7,5,2,100,64,40,15,4,6,3,5,5,2,4900,16,4500
+2023-3005,Madrid,Clay,56,ATP1000,2023-04-24,6,102999,7,,Rafael Nadal,L,185,ESP,36,104567,1,,Novak Djokovic,R,188,SRB,35,4-6 6-4 7-5,3,SF,160,5,4,102,60,44,28,16,3,6,11,4,108,66,46,18,5,7,4,6,6,1,4300,3,8800
