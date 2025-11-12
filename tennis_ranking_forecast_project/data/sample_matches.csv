@@ -1,0 +1,6 @@
+tourney_date,player_id,opponent_id,surface,round,result,player_sets_won,opponent_sets_won
+2023-10-10,102999,104567,Hard,QF,L,0,2
+2023-11-15,103819,102999,Indoor,SF,W,2,1
+2023-12-20,104567,103819,Clay,F,W,3,1
+2024-01-12,102999,103819,Hard,R16,W,3,2
+2024-02-05,103819,104567,Hard,QF,L,1,2
