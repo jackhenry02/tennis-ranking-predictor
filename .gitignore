@@ -1,3 +1,5 @@
 .tennis_venv/
 __pycache__/
 .ipynb_checkpoints/
+data/tennis_atp_raw/
+tennis_ranking_forecast_project.zip
