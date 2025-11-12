@@ -5,17 +5,17 @@
 #deactivate
 
 # Create virtual environment
-python -m venv .Radar_venv
+python -m venv .tennis_venv
 
 # Activate the virtual environment
-source .Radar_venv/bin/activate
+source .tennis_venv/bin/activate
 
 # Upgrade pip and install dependencies
 pip install --upgrade pip
 pip install -r requirements.txt
 
 # Add Jupyter kernel
-# python -m ipykernel install --user --name=.Radar_venv --display-name "Python (.Radar_venv)"
+python -m ipykernel install --user --name=.tennis_venv --display-name "Python (.tennis_venv)"
 
 #nbstripout --install
 
